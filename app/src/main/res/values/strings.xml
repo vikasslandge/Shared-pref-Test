@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPref-Test</string>
+    <string name="usrdtl">username</string>
+    <string name="pswd">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="MobileNo">Mobile No</string>
+    <string name="welcome_fragment">Welcome Fragment</string>
+</resources>
